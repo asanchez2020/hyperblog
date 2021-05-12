@@ -47,6 +47,14 @@ body
 
 #post
 { 
+<<<<<<< HEAD
+=======
+    padding: ;
+}
+
+#post
+{ 
+>>>>>>> footer
     background: white;
     padding: 1em;
 }
