@@ -9,3 +9,4 @@ Un blog increíble para el curso de Git y GitHub de platzi
 * El flujo en GitHub
 * El verdader amor por las buenas practicas
 * Creado po rel increible Hombre araña
+* Incluye ejepmlos en windows, linux y macOS
